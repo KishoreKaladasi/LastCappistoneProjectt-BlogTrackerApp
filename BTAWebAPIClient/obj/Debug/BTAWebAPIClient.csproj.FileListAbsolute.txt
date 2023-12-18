@@ -1,0 +1,172 @@
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\BTAWebAPIClient.dll.config
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\BTAWebAPIClient.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\BTAWebAPIClient.pdb
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csc.exe
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csc.exe.config
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csc.rsp
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csi.exe
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csi.exe.config
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csi.rsp
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.AppContext.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Collections.Immutable.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Console.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Globalization.Calendars.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.Compression.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.FileSystem.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Net.Http.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Net.Sockets.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Reflection.Metadata.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.ValueTuple.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.XPath.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\vbc.exe
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\vbc.exe.config
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\vbc.rsp
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\VBCSCompiler.exe
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\VBCSCompiler.exe.config
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Antlr3.Runtime.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\DAL.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Microsoft.Web.Infrastructure.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Newtonsoft.Json.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Net.Http.Formatting.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Helpers.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Mvc.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Optimization.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Razor.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Deployment.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Razor.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\WebGrease.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\EntityFramework.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\DAL.pdb
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\DAL.dll.config
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Net.Http.Formatting.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Helpers.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Mvc.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Optimization.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Razor.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Deployment.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Razor.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Newtonsoft.Json.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Antlr3.Runtime.pdb
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\EntityFramework.xml
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.csproj.AssemblyReference.cache
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.csproj.CoreCompileInputs.cache
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.csproj.CopyComplete
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.dll
+E:\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.pdb
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\BTAWebAPIClient.dll.config
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\BTAWebAPIClient.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\BTAWebAPIClient.pdb
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\DAL.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\DAL.pdb
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\DAL.dll.config
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.dll
+C:\Users\ASUS\Downloads\Blog-tracker-App-master (2)\Blog-tracker-App-master\Blog-tracker-App-master\BTA\BTAWebAPIClient\obj\Debug\BTAWebAPIClient.pdb
